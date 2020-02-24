@@ -1,0 +1,15 @@
+{
+    "name": "[dev.apijunky.com]",
+    "version": "0.0.1",
+    "description": "This is a repo for learning how to do this the right way!",
+    "title": "dev.apijunky.com docs",
+    "url": "https://dev.apijunky.com",
+    "header": {
+        "title": "dev.apijunky.com",
+        "filename": "header.md"
+      },
+      "footer": {
+        "title": "More Info",
+        "filename": "footer.md"
+      }
+}
